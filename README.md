@@ -1,1 +1,11 @@
-# Reports
+---
+
+Команды:
+
+/s
+/sc
+/sh
+/xxxddd
+/warns
+
+---
